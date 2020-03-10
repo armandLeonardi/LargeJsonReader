@@ -188,7 +188,7 @@ class LargeJsonReader(object):
 
 if __name__ == "__main__":
     
-    jsonPath = "C:\\Users\\GDognin\\DATA\\Informatique\\Developpements_python\\json\\largeExample.json"
+    jsonPath = "C:\\Users\\...\\largeExample.json"
 
     print(jsonPath)
     ljr = LargeJsonReader(jsonPath, 'myJson.json')
